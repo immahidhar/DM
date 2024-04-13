@@ -1,0 +1,17 @@
+Extract the zip files and keep all files in a single folder. Program has been split to multiple files for convenience.
+
+All programs have been implemented in python 3.10.7. So, make sure to test the programs with python3.
+There are multiple external python packages used to implement the programs like sklearn, pandas etc.
+Make sure to install these packages if you face any "ModuleNotFoundError:". Use command "pip3 install module-name".
+
+Before running, replace the path to the data set folders in Loader.py, line 5.
+
+To run the programs, execute the following python files from the directory containing all files
+problem 1 :
+> python3 DMA4-1.py
+problem 2 :
+> python3 DMA4-2.py
+problem 3 :
+> python3 DMA4-3.py
+
+The programs may take a while to execute, so please wait for the output to show up.

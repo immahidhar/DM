@@ -1,0 +1,12 @@
+Extract the zip files and keep all files in a single folder. Program has been split to multiple files for convenience.
+
+Program for problem 3 has been implemented in python 3.10.7. So, make sure to test the program with python3.
+There are multiple external python packages used to implement the program like matplotlib, numpy, sklearn etc.
+Make sure to install these packages if you face any "ModuleNotFoundError:". Use command "pip3 install module-name".
+
+Before running, replace the path to the data set folders in Loader.py, line 4.
+
+To run the program, execute the following python file from the directory containing all files
+> python3 DMA3.py
+
+The program may take a while to execute, so please wait for the graph plots to show up.
